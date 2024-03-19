@@ -377,13 +377,6 @@ li{
 
 /* Custom Crap */
 
-/* h2 {
-  font-size: 20px;
-  margin-bottom: 15px;
-  text-align: center;
-} */
-
-/* Rating Scale Styles */
 .rating-scale {
   margin-top: 20px;
 }
@@ -403,7 +396,7 @@ li{
 
 .filled {
   height: 20px;
-  background: linear-gradient(90deg, #E0E0E0, #D1D9E8); /* Subtle Grey with Pastel Blue gradient */
+  background-color: #BBDEFB; /* Soft Blue color */
 }
 
 .empty {
