@@ -375,3 +375,59 @@ li{
   }
 }
 
+/* Custom Crap */
+
+/* h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  text-align: center;
+} */
+
+/* Rating Scale Styles */
+.rating-scale {
+  margin-top: 20px;
+}
+
+.skill {
+  margin-bottom: 15px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+}
+
+.filled {
+  height: 20px;
+  background: linear-gradient(90deg, #E0E0E0, #D1D9E8); /* Subtle Grey with Pastel Blue gradient */
+}
+
+.empty {
+  height: 20px;
+  background-color: #e0e0e0; /* Light gray color for empty part */
+}
+
+/* Progress Classes */
+.progress-1 {
+  width: 20%;
+}
+
+.progress-2 {
+  width: 40%;
+}
+
+.progress-3 {
+  width: 60%;
+}
+
+.progress-4 {
+  width: 80%;
+}
+
+.progress-5 {
+  width: 100%;
+}
