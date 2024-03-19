@@ -369,12 +369,6 @@ li{
   font-style: normal;
 }
 
-@media print {
-  .new-page {
-      page-break-before: always;
-  }
-}
-
 /* Custom Crap */
 
 .rating-scale {
@@ -423,4 +417,11 @@ li{
 
 .progress-5 {
   width: 100%;
+}
+
+
+@media print {
+  .new-page {
+      page-break-before: always;
+  }
 }
